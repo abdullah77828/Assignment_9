@@ -63,7 +63,7 @@ lib/
 ### Clone the repository
 
 
-git clone https://github.com/AshhadAhmed/product_catalog_manager.git
+git clone (https://github.com/abdullah77828/Assignment_9)
 
 
 ### Navigate to project folder
