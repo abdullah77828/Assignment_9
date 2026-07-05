@@ -96,13 +96,6 @@ flutter run
 
 ---
 
-## 👨‍💻 Author
-
-Ashhad Ahmed
-
-GitHub: https://github.com/AshhadAhmed
-
----
 
 ## ⭐ Support
 
